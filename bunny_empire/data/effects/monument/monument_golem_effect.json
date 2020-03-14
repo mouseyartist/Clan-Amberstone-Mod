@@ -1,0 +1,120 @@
+{
+   "type": "effect",
+   "tracks": {
+      "ember_base": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.ember_base.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 0.6, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "ember_wide": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.ember_wide.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 2, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "smoke_sparkles": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.smoke_sparkles.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 4, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "ember_glow": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.ember_glow.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 2, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "central_cube": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.central_cube.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 0, "z": 0,
+            "rx": 0,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "cubemitter_glint1": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.glint.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.0, "y": 3.6, "z": 0.0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "cubemitter_key_ray": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.rays.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.0, "y": 3.6, "z": 0.0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "coins": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.coins.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": -0.1, "y": 0, "z": -0.1,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "eye_l": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.eyes.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.1, "y": 5.95, "z": -1.4,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "eye_r": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_golem/monument_golem.eyes.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": -0.3, "y": 5.95, "z": -1.4,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "light_main": {
+         "type": "light",
+         "light": "/bunny_empire/data/horde/animatedlights/shrine/shrine.golem.soft.animatedlight.json",
+         "transforms": { "x": -0.1, "y": 8, "z": -1 },
+         "shadows": true
+      },
+      "crackle_sound": {
+         "type": "sound_effect",
+         "loop": true,
+         "start_time": 400,
+         "min_distance": 40,
+         "falloff": 2.5,
+         "volume": 70,
+         "track": "stonehearth:sounds:firepit_loop_sound"
+      }
+   }
+}

@@ -1,0 +1,12 @@
+{
+   "type": "entity",
+   "mixins": "file(monument_golem.json)",
+   "components": {
+      "effect_list": {
+         "default": "bunny_empire:effects:monument:hare"
+      },
+      "stonehearth:lamp": {
+         "light_effect": "bunny_empire:effects:monument:hare:light"
+      }
+   }
+}

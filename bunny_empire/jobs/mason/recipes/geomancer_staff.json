@@ -1,0 +1,30 @@
+{
+   "type": "recipe",
+   "effort": 60,
+   "work_units": 20,
+   "recipe_name": "Geomancer's Staff",
+   "description": "Harvest the power of the Geomancers",
+   "flavor": "",
+   "portrait": "/stonehearth/jobs/geomancer/geomancer_talisman/geomancer_talisman.png",
+   "workshop": "stonehearth:mason:pedestal",
+   "level_requirement": 4,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 2
+      },
+      {
+         "material": "stone resource",
+         "count": 4
+      },
+      {
+      "material": "earth_essence resource",
+      "count": 8
+      }
+   ],
+   "produces": [
+      {
+         "item": "stonehearth:geomancer:talisman"
+      }
+   ]
+}

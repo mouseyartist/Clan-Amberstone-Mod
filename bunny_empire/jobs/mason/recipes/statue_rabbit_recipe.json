@@ -1,0 +1,26 @@
+{
+   "type": "recipe",
+   "effort": 180,
+   "work_units": 30,
+   "recipe_name": "i18n(stonehearth:jobs.mason.recipes.statue_rabbit_recipe.recipe_name)",
+   "description": "i18n(stonehearth:jobs.mason.recipes.statue_rabbit_recipe.description)",
+   "flavor": "i18n(stonehearth:jobs.mason.recipes.statue_rabbit_recipe.flavor)",
+   "portrait": "/stonehearth/entities/decoration/craftsman_statue/statue_rabbit/statue_rabbit.png",
+   "workshop": "stonehearth:mason:pedestal",
+   "level_requirement": 4,
+   "ingredients": [
+      {
+         "material": "stone resource",
+         "count": 1
+      },
+      {
+         "uri": "stonehearth:resources:coal:lump_of_coal",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "stonehearth:decoration:craftsman_statue:statue_rabbit"
+      }
+   ]
+}

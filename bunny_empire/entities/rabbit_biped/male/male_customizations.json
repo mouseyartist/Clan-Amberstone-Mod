@@ -1,0 +1,33 @@
+{
+   "type": "index",
+   "categories": {
+      "skin_color_solid": [
+         "skin_color"
+      ]
+   },
+   "styles": {
+      "skin_color": {
+         "type": "material_map",
+         "values": {
+            "brown": {
+               "file": "/stonehearth/data/materials/material_maps/rabbit_biped_fur_brown_material_map.json"
+            },
+            "cream": {
+               "file": "/stonehearth/data/materials/material_maps/rabbit_biped_fur_cream_material_map.json"
+            },
+            "gray": {
+               "file": "/stonehearth/data/materials/material_maps/rabbit_biped_fur_gray_material_map.json"
+            },
+            "brown_2": {
+               "file": "/stonehearth/data/materials/material_maps/rabbit_biped_fur_brown2_material_map.json"
+            },
+            "gray_2": {
+               "file": "/stonehearth/data/materials/material_maps/rabbit_biped_fur_gray2_material_map.json"
+            },
+            "pink_2": {
+               "file": "/stonehearth/data/materials/material_maps/rabbit_biped_fur_pink2_material_map.json"
+            }
+         }
+      }
+   }
+}

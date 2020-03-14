@@ -1,0 +1,14 @@
+{
+   "crops_by_kingdom": {
+      "bunny_empire:kingdoms:bunny_empire": {
+         "fallow": true,
+         "carrot": true,
+         "cactus_flower": true,
+         "corn": true,
+         "silkweed": true,
+         "pine_tree": true,
+         "heirbloom": true
+
+      }
+   }
+}

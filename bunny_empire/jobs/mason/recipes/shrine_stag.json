@@ -1,0 +1,31 @@
+{
+   "type": "recipe",
+   "effort": 180,
+   "work_units": 9,
+   "recipe_name": "i18n(northern_alliance:jobs.mason.recipes.shrine_stag.recipe_name)",
+   "description": "i18n(northern_alliance:jobs.mason.recipes.shrine_stag.description)",
+   "flavor": "",
+   "portrait": "/northern_alliance/entities/decoration/shrine_stag/shrine_stag.png",
+   "workshop": "stonehearth:mason:pedestal",
+   "level_requirement": 4,
+   "manual_unlock": true,
+   "ingredients": [
+      {
+         "uri": "stonehearth:food:wheat:wheat_bale",
+         "count": 2
+      },
+      {
+         "uri": "stonehearth:resources:herb:brightbell",
+         "count": 2
+      },
+      {
+         "uri": "stonehearth:refined:gold_ingot",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "bunny_empire:decoration:shrine:stag"
+      }
+   ]
+}

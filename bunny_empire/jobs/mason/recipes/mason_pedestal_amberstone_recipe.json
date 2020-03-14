@@ -1,0 +1,22 @@
+{
+   "type": "recipe",
+   "effort": 120,
+   "work_units": 5,
+   "recipe_name": "i18n(stonehearth:jobs.mason.recipes.mason_pedestal_amberstone_recipe.recipe_name)",
+   "description": "i18n(stonehearth:jobs.mason.recipes.mason_pedestal_amberstone_recipe.description)",
+   "flavor": "i18n(stonehearth:jobs.mason.recipes.mason_pedestal_amberstone_recipe.flavor)",
+   "portrait": "/stonehearth/jobs/mason/mason_pedestal_amberstone/mason_pedestal_amberstone.png",
+   "workshop": "stonehearth:mason:workbench",
+   "level_requirement": 3,
+   "ingredients": [
+      {
+         "material": "stone resource",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "stonehearth:mason:pedestal:amberstone"
+      }
+   ]
+}

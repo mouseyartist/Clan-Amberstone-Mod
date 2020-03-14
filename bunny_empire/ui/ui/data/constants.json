@@ -1,0 +1,10 @@
+{
+   "building": {
+      "material_priorities": {
+         "clay_brick resource": 801,
+         "clay resource": 800,
+         "wood resource": 900,
+         "stone resource": 1000         
+      }
+   }
+}

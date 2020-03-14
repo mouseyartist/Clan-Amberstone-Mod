@@ -1,0 +1,12 @@
+{
+   "type": "entity",
+   "mixins": "file(monument_sun.json)",
+   "components": {
+      "effect_list": {
+         "default": "bunny_empire:effects:monument:stag"
+      },
+      "stonehearth:lamp": {
+         "light_effect": "bunny_empire:effects:monument:stag:light"
+      }
+   }
+}

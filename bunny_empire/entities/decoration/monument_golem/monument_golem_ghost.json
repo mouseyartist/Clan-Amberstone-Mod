@@ -1,0 +1,33 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(monument_golem.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": 0, "y": 0, "z": 0 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 },
+         "allow_vertical_adjacent": true
+      },
+      "render_info": {
+         "scale": 0.2,
+         "color_map": "bunny_empire:color_map:tier_progression",
+         "material_maps": [
+            "/bunny_empire/data/materials/material_maps/tier_progression_material_map.json"
+         ]
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(bunny_empire:entities.decoration.monument_golem.monument_golem.display_name)",
+         "description": "i18n(bunny_empire:entities.decoration.monument_golem.monument_golem.description)",
+         "icon": "file(monument_golem.png)",
+         "category": "decoration",
+         "material_tags": "stone crafted decoration stockpile_decoration"
+      }
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "roles": {
+      "herald_jillis": {
+         "female": {
+            "uri": [
+               "bunny_empire:npc:herald:jillis"
+            ]
+         }
+      },
+   }
+}

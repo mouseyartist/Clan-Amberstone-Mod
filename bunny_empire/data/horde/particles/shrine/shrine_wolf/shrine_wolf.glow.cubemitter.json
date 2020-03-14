@@ -1,0 +1,227 @@
+{
+   "name": "valor_statue",
+   "duration": 1000,
+   "material": "materials/cubemitter_add.material.json",
+   "loops": true,
+   "mesh": {
+      "file": "",
+      "matrix": "",
+      "offset": { "x": 0, "y": 0, "z": 0 }
+   },
+   "emission": {
+      "rate": {
+         "kind": "BURST",
+         "values": [
+            [
+               0,
+               1,
+               1
+            ]
+         ]
+      },
+      "angle": {
+         "kind": "CONSTANT",
+         "values": [
+            0
+         ]
+      },
+      "origin": {
+         "surface": "POINT"
+      },
+      "translation_x": {
+         "kind": "CONSTANT",
+         "values": [
+            0
+         ]
+      },
+      "translation_y": {
+         "kind": "CONSTANT",
+         "values": [
+            0
+         ]
+      },
+      "translation_z": {
+         "kind": "CONSTANT",
+         "values": [
+            -3
+         ]
+      }
+   },
+   "particle": {
+      "lifetime": {
+         "start": {
+            "kind": "CONSTANT",
+            "values": [
+               4000
+            ]
+         }
+      },
+      "speed": {
+         "start": {
+            "kind": "CONSTANT",
+            "values": [
+               0
+            ]
+         },
+         "over_lifetime": {
+            "kind": "CONSTANT",
+            "values": [
+               0
+            ]
+         }
+      },
+      "acceleration": {
+         "over_lifetime_x": {
+            "kind": "CONSTANT",
+            "values": [
+               0
+            ]
+         }
+      },
+      "velocity": {
+         "over_lifetime_y": {
+            "kind": "CONSTANT",
+            "values": [
+               0.5
+            ]
+         }
+      },
+      "rotation": {},
+      "scale": {
+         "start": {
+            "kind": "CONSTANT",
+            "values": [
+               5.5
+            ]
+         },
+         "over_lifetime": {
+            "kind": "CURVE",
+            "values": [
+               [
+                  0,
+                  1.1
+               ],
+               [
+                  1,
+                  0.95
+               ]
+            ]
+         },
+         "over_lifetime_x": {
+            "kind": "CURVE",
+            "values": [
+               [
+                  0,
+                  1
+               ],
+               [
+                  0.25838005065917968,
+                  0.96911997477213541
+               ],
+               [
+                  0.537301025390625,
+                  0.78450352986653649
+               ],
+               [
+                  0.79600204467773439,
+                  0.41250345865885418
+               ],
+               [
+                  1,
+                  0
+               ]
+            ]
+         },
+         "over_lifetime_y": {
+            "kind": "CURVE",
+            "values": [
+               [
+                  0,
+                  1
+               ],
+               [
+                  0.26806938171386718,
+                  1.083717753092448
+               ],
+               [
+                  0.54902595520019526,
+                  1.2423592631022136
+               ],
+               [
+                  0.8475,
+                  1.5466666666666666
+               ],
+               [
+                  1,
+                  2
+               ]
+            ]
+         },
+         "over_lifetime_z": {
+            "kind": "CURVE",
+            "values": [
+               [
+                  0,
+                  1
+               ],
+               [
+                  0.23,
+                  0.96
+               ],
+               [
+                  0.55029270172119138,
+                  0.77937535603841146
+               ],
+               [
+                  0.85132942199707029,
+                  0.43620320638020837
+               ],
+               [
+                  1,
+                  0
+               ]
+            ]
+         }
+      },
+      "color": {
+         "start": {
+            "kind": "CONSTANT",
+            "values": [
+               0.979,
+               0.946,
+               0.821,
+               1
+            ]
+         },
+         "over_lifetime_a": {
+            "kind": "CURVE",
+            "values": [
+               [
+                  0,
+                  0
+               ],
+               [
+                  0.1275,
+                  0.024
+               ],
+               [
+                  0.25728368759155273,
+                  0.033960194905598956
+               ],
+               [
+                  0.43996116638183591,
+                  0.015840482076009119
+               ],
+               [
+                  0.71619533538818358,
+                  0.0043714497884114606
+               ],
+               [
+                  1,
+                  0
+               ]
+            ]
+         }
+      }
+   }
+}

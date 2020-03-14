@@ -1,0 +1,31 @@
+{
+   "type": "recipe",
+   "effort": 180,
+   "work_units": 9,
+   "recipe_name": "i18n(bunny_empire:jobs.geomancer.recipes.monument_sun.recipe_name)",
+   "description": "i18n(bunny_empire:jobs.geomancer.recipes.monument_sun.description)",
+   "flavor": "",
+   "portrait": "/bunny_empire/entities/decoration/monument_sun/monument_sun.png",
+   "workshop": "stonehearth:geomancer:golem_workbench",
+   "level_requirement": 4,
+   "manual_unlock": true,
+   "ingredients": [
+      {
+         "uri": "stonehearth:food:wheat:wheat_bale",
+         "count": 2
+      },
+      {
+         "uri": "stonehearth:resources:herb:brightbell",
+         "count": 2
+      },
+      {
+         "uri": "stonehearth:refined:gold_ingot",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "bunny_empire:decoration:monument:sun"
+      }
+   ]
+}

@@ -1,0 +1,130 @@
+{
+   "type": "effect",
+   "tracks": {
+      "base_dark": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.base_dark.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 2.15, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "base_bubbles": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.base_bubbles.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 0, "z": 0,
+            "rx": 0,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "ring": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.ring.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": -0.05, "y": 2.15, "z": 0.05,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "eye_l": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.eyes.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.6, "y": 6.15, "z": -2.4,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "eye_r": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.eyes.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": -0.4, "y": 6.15, "z": -2.4,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "glow": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.glow.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 2.15, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "embers": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.embers.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 2.15, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "spinner_hot": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.spinner_hot.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 6, "z": 0,
+            "rx": 0,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "spinner": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.spinner.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 6, "z": 0,
+            "rx": 0,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "spinner_small_hot": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.spinner_small_hot.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 6, "z": 0,
+            "rx": 0,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "spinner_small": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/shrine_wolf/shrine_wolf.spinner_small.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 6, "z": 0,
+            "rx": 0,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "light_main": {
+         "type": "light",
+         "light": "/bunny_empire/data/horde/animatedlights/shrine/shrine.wolf.animatedlight.json",
+         "transforms": { "x": 0.2, "y": 9, "z": -2 },
+         "shadows": true
+      },
+      "crackle_sound": {
+         "type": "sound_effect",
+         "loop": true,
+         "start_time": 400,
+         "min_distance": 40,
+         "falloff": 2.5,
+         "volume": 70,
+         "track": "stonehearth:sounds:firepit_loop_sound"
+      }
+   }
+}

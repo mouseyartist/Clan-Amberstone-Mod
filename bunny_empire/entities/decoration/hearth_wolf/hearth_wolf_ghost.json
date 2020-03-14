@@ -1,0 +1,37 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(hearth_wolf.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+         },
+         "region_origin": {
+            "x": 0.5,
+            "y": 0,
+            "z": 0.5
+         },
+         "allow_vertical_adjacent": true
+      },
+      "render_info": {
+         "scale": 0.15
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(bunny_empire:entities.decoration.hearth_wolf.hearth_wolf.display_name)",
+         "description": "i18n(bunny_empire:entities.decoration.hearth_wolf.hearth_wolf.description)",
+         "icon": "file(hearth_wolf.png)",
+         "category": "decoration",
+         "material_tags": "stone crafted stockpile_decoration"
+      }
+   }
+}

@@ -1,0 +1,9 @@
+{
+   "type": "job",
+   "mixins": "stonehearth:jobs:mason",
+   "display_order": 4,
+   "parent_job": "stonehearth:jobs:worker",
+   "crafter": {
+      "recipe_list": "/bunny_empire/jobs/mason/recipes/recipes.json"
+   }
+}

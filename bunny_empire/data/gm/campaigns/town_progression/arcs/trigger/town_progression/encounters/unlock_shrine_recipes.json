@@ -1,0 +1,14 @@
+{
+   "type": "encounter",
+   "encounter_type": "unlock_recipe",
+   "in_edge": "unlock_shrine_recipes",
+   "unlock_recipe_info": {
+      "job": "stonehearth:jobs:mason",
+      "recipe_key": [
+         "monuments:monument_golem",
+         "monuments:monument_sun",
+         "monuments:monument_vengence"
+      ],
+      "bulletin_title": "i18n(bunny_empire:data.gm.campaigns.town_progression.unlock_shrine_recipes.bulletin_title)"
+   }
+}

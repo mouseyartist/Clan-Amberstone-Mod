@@ -1,0 +1,121 @@
+{
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(earthbud_5.qb)"
+            ]
+         },
+         "earthbud_2": {
+            "models": [
+               "file(earthbud_2.qb)"
+            ]
+         },
+         "earthbud_3": {
+            "models": [
+               "file(earthbud_3.qb)"
+            ]
+         },
+         "earthbud_4": {
+            "models": [
+               "file(earthbud_4.qb)"
+            ]
+         },
+         "earthbud_5": {
+            "models": [
+               "file(earthbud_5.qb)"
+            ]
+         },
+         "earthbud_1": {
+            "models": [
+               "file(earthbud_1.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": -0.05, "y": 0, "z": 0.05 },
+         "mob_collision_type": "clutter"
+      },
+      "stonehearth:crop": {
+         "resource_pairings": {
+            "earthbud_4": "stonehearth:resources:earth_essence",
+            "earthbud_1": ""
+         },
+         "harvest_threshhold": "earthbud_4",
+         "plant_overlay_effect": "stonehearth:effects:plant_crop_overlay_effect"
+      },
+      "stonehearth:growing": {
+         "growth_period": "25.5h",
+         "preferred_seasons": {
+            "stonehearth:biome:temperate": [
+               "autumn",
+               "winter"
+            ],
+            "stonehearth:biome:desert": [
+               "autumn",
+               "winter"
+            ],
+            "stonehearth:biome:arctic": [
+               "summer"
+            ]
+         },
+         "growth_stages": [
+            {
+               "model_name": "earthbud_2",
+               "name": "Earthbud",
+               "description": "Just a seed of its former self"
+            },
+            {
+               "model_name": "earthbud_3",
+               "name": "Earthbud",
+               "description": "Almost there"
+            },
+            {
+               "model_name": "earthbud_4",
+               "name": "Earthbud",
+               "description": "Earth Essence for all"
+            },
+            {
+               "model_name": "earthbud_5",
+               "name": "Earthbud",
+               "description": "thats a ripe looking plant"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+               "model_name": "earthbud_1",
+               "name": "Earthbud",
+               "description": "you ruined it"
+            }
+         ]
+      }
+   },
+   "entity_data": {
+      "stonehearth:net_worth": {
+         "value_in_gold": 1,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": false
+         }
+      },
+      "stonehearth:catalog": {
+         "display_name": "Earthbud",
+         "description": "harvest the power of the earth, Dont tell the humans please.",
+         "icon": "file(icon.png)",
+         "material_tags": [
+            "crop",
+            "earthbud"
+         ]
+      },
+      "stonehearth:appeal": {
+         "appeal": 1
+      }
+   }
+}

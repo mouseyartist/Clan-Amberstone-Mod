@@ -1,0 +1,20 @@
+{
+   "stonehearth:bright" : {
+      "render_material" : "materials/bright_voxel.material.json"
+   },
+   "stonehearth:glowing" : {
+      "render_material" : "materials/glowy_voxel.material.json"
+   },
+   "stonehearth:shiny" : {
+      "render_material" : "materials/shiny.material.json"
+   },
+   "stonehearth:voxel" : {
+      "render_material" : "materials/voxel.material.json"
+   },
+   "stonehearth:transparent_glow" : {
+      "render_material" : "materials/transparent_with_depth_bloom.material.json"
+   },
+   "stonehearth:transparent" : {
+      "render_material" : "materials/transparent_add_bloom.material.json"
+   }
+}

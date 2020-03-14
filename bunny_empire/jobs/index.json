@@ -1,0 +1,30 @@
+{
+   "mixins": "stonehearth:jobs:index",
+   "jobs": {
+      "stonehearth:jobs:worker": {
+         "description": "bunny_empire:jobs:worker"
+      },
+      "stonehearth:jobs:mason": {
+         "description": "bunny_empire:jobs:mason"
+      },
+      "stonehearth:jobs:potter": {
+         "description": "bunny_empire:jobs:potter"
+      },
+      "stonehearth:jobs:carpenter": {
+         "description": "bunny_empire:jobs:carpenter"
+      },
+      "stonehearth:jobs:archer": {
+         "description": "bunny_empire:jobs:archer"
+      },
+	
+
+
+      "mixintypes":{
+         "stonehearth:jobs:knight": "remove",
+      
+
+      }
+   }
+ }
+ 
+ 

@@ -1,0 +1,17 @@
+{
+   "mixins": "/stonehearth/jobs/geomancer/recipes/geomancer_recipes.json",
+   "craftable_recipes": {
+      "landmark": {
+            "monument_golem": {
+               "recipe": "file(monument_golem.json)"
+            },
+            "monument_sun": {
+               "recipe": "file(monument_sun.json)"
+            },
+            "monument_vengence": {
+               "recipe": "file(monument_vengence.json)"
+            }
+         }
+      }
+   }
+}

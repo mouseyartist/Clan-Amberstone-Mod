@@ -1,0 +1,12 @@
+{
+   "type": "entity",
+   "mixins": "file(monument_vengence.json)",
+   "components": {
+      "effect_list": {
+         "default": "bunny_empire:effects:monument:wolf"
+      },
+      "stonehearth:lamp": {
+         "light_effect": "bunny_empire:effects:monument:wolf:light"
+      }
+   }
+}

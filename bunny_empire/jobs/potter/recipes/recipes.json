@@ -1,0 +1,14 @@
+{
+   "mixins": "/stonehearth/jobs/potter/recipes/recipes.json",
+   "craftable_recipes": {
+      "tools_weapons": {
+         "ordinal": 10,
+         "name": "i18n(stonehearth:jobs.carpenter.recipes.tools_weapons_name)",
+         "recipes": {
+            "herbalist_clay_staff": {
+               "recipe": "file(herbalist_clay_staff_recipe.json)"
+            }
+         }
+      }
+   }
+}

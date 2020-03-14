@@ -1,0 +1,89 @@
+{
+   "mixins": "/stonehearth/jobs/mason/recipes/recipes.json",
+   "craftable_recipes": {
+      "workbenches": {
+         "ordinal": 1,
+         "name": "i18n(stonehearth:jobs.mason.recipes.workbenches_name)",
+         "recipes": {
+            "mason_pedestal_amberstone_clan": {
+               "recipe": "file(mason_pedestal_amberstone_recipe.json)"
+            }
+         }
+      },
+      "tools": {
+         "ordinal": 10,
+         "name": "i18n(stonehearth:jobs.carpenter.recipes.tools_weapons_name)",
+         "recipes": {
+            "weaver_spindle": {
+               "recipe": "file(crude_weaver_spindle_recipe.json)"
+            },
+            "hoe": {
+               "recipe": "file(hoe_recipe.json)"
+            },
+            "wooden_sword": {
+               "recipe": "file(stone_sword_recipe.json)"
+            },
+            "archer_bow": {
+               "recipe": "file(archer_bow_recipe.json)"
+            },
+            "geomancer_staff": {
+               "recipe": "file(geomancer_staff.json)"
+            }
+         }
+      },
+      "building_parts": {
+         "ordinal": 70,
+         "name": "i18n(stonehearth:jobs.mason.recipes.building_parts_name)",
+         "recipes": {
+            "amberstone_clan_tunnel_door": {
+               "recipe": "file(amberstone_tunnel_door_recipe.json)"
+            },
+            "amberstone_clan_window": {
+               "recipe": "file(amberstone_window_recipe.json)"
+            }
+         }
+      },
+      "furniture": {
+         "ordinal": 80,
+         "name": "i18n(stonehearth:jobs.mason.recipes.furniture_name)",
+         "recipes": {
+            "amberstone_clan_table": {
+               "recipe": "file(amberstone_table_recipe.json)"
+            }
+         }
+      },
+      "signage_decoration": {
+         "ordinal": 85,
+         "name": "i18n(stonehearth:jobs.mason.recipes.signage_decoration_name)",
+         "recipes": {
+            "amberstone_clan_teapot": {
+               "recipe": "file(amberstone_teapot_recipe.json)"
+            },
+            "amberstone_clan_lantern": {
+               "recipe": "file(amberstone_lantern_recipe.json)"
+            },
+            "amberstone_statue_rabbit": {
+               "recipe": "file(statue_rabbit_recipe.json)"
+            },
+            "amberstone_statue_rabbit_flat": {
+               "recipe": "file(statue_rabbit_flat_recipe.json)"
+            }
+         }
+      },
+      "monuments": {
+         "ordinal": 90,
+         "name": "i18n(bunny_empire:jobs.mason.recipes.monuments_name)",
+         "recipes": {
+            "monument_golem": {
+               "recipe": "file(monument_golem.json)"
+            },
+            "monument_sun": {
+               "recipe": "file(monument_sun.json)"
+            },
+            "monument_vengence": {
+               "recipe": "file(monument_vengence.json)"
+            }
+         }
+      }
+   }
+}

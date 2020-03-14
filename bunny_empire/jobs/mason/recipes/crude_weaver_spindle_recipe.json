@@ -1,0 +1,30 @@
+{
+   "type": "recipe",
+   "effort": 60,
+   "work_units": 20,
+   "recipe_name": "i18n(northern_alliance:jobs.mason.recipes.crude_weaver_spindle_recipe.recipe_name)",
+   "description": "i18n(stonehearth:jobs.carpenter.recipes.weaver_spindle_recipe.description)",
+   "flavor": "i18n(stonehearth:jobs.carpenter.recipes.weaver_spindle_recipe.flavor)",
+   "portrait": "/stonehearth/jobs/weaver/weaver_spindle/weaver_spindle.png",
+   "workshop": "stonehearth:mason:workbench",
+   "level_requirement": 2,
+   "ingredients": [
+      {
+         "material": "stone resource",
+         "count": 1
+      },
+      {
+         "material": "clay resource",
+         "count": 1
+      },
+      {
+         "material": "fiber resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "stonehearth:weaver:talisman"
+      }
+   ]
+}

@@ -1,0 +1,23 @@
+{
+   "type": "recipe",
+   "effort": 60,
+   "work_units": 20,
+   "recipe_name": "i18n(stonehearth:jobs.carpenter.recipes.hoe_recipe.recipe_name)",
+   "description": "i18n(stonehearth:jobs.carpenter.recipes.hoe_recipe.description)",
+   "flavor": "i18n(stonehearth:jobs.carpenter.recipes.hoe_recipe.flavor)",
+   "portrait": "/stonehearth/jobs/farmer/farmer_hoe/farmer_hoe.png",
+   "workshop": "stonehearth:mason:workbench",
+   "level_requirement": 2,
+   "ingredients": [
+      {
+         "material": "stone resource",
+         "count": 2
+      }
+
+   ],
+   "produces": [
+      {
+         "item": "stonehearth:farmer:talisman"
+      }
+   ]
+}

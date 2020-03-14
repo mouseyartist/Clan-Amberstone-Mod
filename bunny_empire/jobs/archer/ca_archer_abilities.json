@@ -1,0 +1,22 @@
+{
+   "type": "entity",
+   "components": {
+      "stonehearth:equipment_piece": {
+         "injected_ai": {
+            "ai_packs": [
+               "stonehearth:ai_pack:trapping",
+               "stonehearth:ai_pack:patrolling",
+               "stonehearth:ai_pack:backpack",
+               "stonehearth:ai_pack:wimpy",
+               "stonehearth:ai_pack:panic:flee",
+               "stonehearth:ai_pack:ranged_combat",
+               "stonehearth:ai_pack:combat_control"
+            ]
+         },
+         "injected_buffs": [
+            "stonehearth:buffs:combat_basics"
+         ],
+         "military_score": 0
+      }
+   }
+}

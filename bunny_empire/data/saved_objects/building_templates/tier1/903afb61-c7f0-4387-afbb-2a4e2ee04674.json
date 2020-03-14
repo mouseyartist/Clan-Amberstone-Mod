@@ -1,0 +1,9461 @@
+{
+	"header" : {
+		"preview_image" : "\/r\/saved_objects\/stonehearth\/building_templates\/903afb61-c7f0-4387-afbb-2a4e2ee04674.png",
+		"sunk" : true,
+		"version" : "1.0.0",
+		"custom_name" : "T1-Rabbit-Potter",
+		"revision" : 3,
+		"file_name" : "903afb61-c7f0-4387-afbb-2a4e2ee04674"
+	},
+	"data" : {
+		"1445" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1127,
+				"z" : -463
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -12,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -13,
+						"z" : 12
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1445,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1440" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1117,
+				"z" : -452
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 21,
+						"z" : 20
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 8,
+						"z" : 18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 23,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 21,
+						"z" : 18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 8,
+						"z" : 20
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 5,
+						"z" : 18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 5,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 3,
+						"z" : 18
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1440,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1503" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 1,
+				"z" : 10
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:containers:input_bin:clay",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 2
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 270,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1503
+		},
+		"1480" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 43,
+				"x" : 1135,
+				"z" : -440
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1480,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {}
+		},
+		"1422" : {
+			"removed" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"origin" : {
+				"y" : 39,
+				"x" : 1141,
+				"z" : -444
+			},
+			"flushed" : false,
+			"__classname" : "stonehearth:RoadData",
+			"supported" : {},
+			"fixtures" : {},
+			"invalid_placement" : false,
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -7,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -8,
+						"z" : -14
+					},
+					"tag" : 7250355
+				}
+			],
+			"adjacent" : {},
+			"supports" : {},
+			"bid" : 1422,
+			"masks" : {},
+			"hole_region" : {},
+			"masked" : {}
+		},
+		"1472" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"adjacent" : {},
+			"fixtures" : {},
+			"cutter" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"placement_walls" : true,
+			"masks" : {},
+			"uri" : "stonehearth:portals:amberstone_window",
+			"quality" : -1,
+			"total_mask" : {},
+			"rotation" : 90,
+			"sub_data_bid" : 1429,
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {
+				"1425" : true
+			},
+			"placement_ground" : true,
+			"owner_bid" : 1425,
+			"color_region" : {},
+			"origin" : {
+				"y" : 2,
+				"x" : -1,
+				"z" : 7
+			},
+			"bid" : 1472
+		},
+		"1438" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 43,
+				"x" : 1120,
+				"z" : -448
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 11,
+						"z" : 12
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 9,
+						"z" : 11
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1438,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1484" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 46,
+				"x" : 1133,
+				"z" : -454
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"tag" : 7630183
+				}
+			],
+			"bid" : 1484,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1483" : true
+			},
+			"supports" : {
+				"1446" : true
+			},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1425" : true,
+				"1485" : true
+			}
+		},
+		"1444" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1134,
+				"z" : -459
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -15,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -16,
+						"z" : 8
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -14,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -16,
+						"z" : 7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -14,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -15,
+						"z" : 6
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1444,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1455" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1138,
+				"z" : -435
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 5,
+						"z" : -19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 4,
+						"z" : -20
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1455,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1451" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1138,
+				"z" : -439
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : -15
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -16
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1451,
+			"masks" : {
+				"1475" : true
+			},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1475" : true
+			}
+		},
+		"1418" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1139,
+				"z" : -449
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -7,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -11,
+						"z" : -7
+					},
+					"tag" : 6394274
+				}
+			],
+			"bid" : 1418,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1419" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1425" : true
+			}
+		},
+		"1421" : {
+			"removed" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"origin" : {
+				"y" : 39,
+				"x" : 1142,
+				"z" : -446
+			},
+			"flushed" : false,
+			"__classname" : "stonehearth:RoadData",
+			"supported" : {},
+			"fixtures" : {},
+			"invalid_placement" : false,
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -10,
+						"z" : -12
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -11,
+						"z" : -13
+					},
+					"tag" : 7250355
+				}
+			],
+			"adjacent" : {},
+			"supports" : {},
+			"bid" : 1421,
+			"masks" : {},
+			"hole_region" : {},
+			"masked" : {}
+		},
+		"1441" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 43,
+				"x" : 1130,
+				"z" : -458
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -10,
+						"z" : 12
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -11,
+						"z" : 10
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1441,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1479" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 41,
+				"x" : 1137,
+				"z" : -437
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 4,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 3,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 5,
+						"z" : -16
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 3,
+						"z" : -17
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1479,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1475" : true
+			}
+		},
+		"1477" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 45,
+				"x" : 1141,
+				"z" : -442
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1477,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {}
+		},
+		"1450" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 43,
+				"x" : 1135,
+				"z" : -438
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1450,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {}
+		},
+		"1471" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"adjacent" : {},
+			"fixtures" : {},
+			"cutter" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"placement_walls" : true,
+			"masks" : {},
+			"uri" : "stonehearth:portals:amberstone_window",
+			"quality" : -1,
+			"total_mask" : {},
+			"rotation" : 90,
+			"sub_data_bid" : 1429,
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {
+				"1425" : true
+			},
+			"placement_ground" : true,
+			"owner_bid" : 1425,
+			"color_region" : {},
+			"origin" : {
+				"y" : 2,
+				"x" : -1,
+				"z" : 11
+			},
+			"bid" : 1471
+		},
+		"1498" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 13,
+				"z" : 5
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:potter:kiln",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : -2
+					},
+					"max" : {
+						"y" : 3,
+						"x" : 3,
+						"z" : 3
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 90,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1498
+		},
+		"1431" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 0,
+				"x" : -1,
+				"z" : 0
+			},
+			"adjacent" : {},
+			"fixtures" : {},
+			"cutter" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"placement_walls" : true,
+			"masks" : {},
+			"uri" : "stonehearth:portals:amberstone_window",
+			"quality" : -1,
+			"total_mask" : {},
+			"rotation" : 270,
+			"sub_data_bid" : 1427,
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {
+				"1425" : true
+			},
+			"placement_ground" : true,
+			"owner_bid" : 1425,
+			"color_region" : {},
+			"origin" : {
+				"y" : 2,
+				"x" : 16,
+				"z" : 11
+			},
+			"bid" : 1431
+		},
+		"1449" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1127,
+				"z" : -432
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 19,
+						"z" : -7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 18,
+						"z" : -19
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1449,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1466" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1118,
+				"z" : -459
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 24
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1466,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1460" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1138,
+				"z" : -456
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -16,
+						"z" : 2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -17,
+						"z" : 1
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1460,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1501" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 14,
+				"z" : 13
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:furniture:clay_dining_table",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -0.5,
+						"z" : -0.5
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 1.5,
+						"z" : 1.5
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 0,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1501
+		},
+		"1465" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1120,
+				"z" : -434
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 24,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 23,
+						"z" : -3
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1465,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1509" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 40,
+				"x" : 1132,
+				"z" : -456
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:decoration:craftsman_statue:statue_rabbit",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : -1,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 0,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1509
+		},
+		"1469" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1119,
+				"z" : -460
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 24
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1469,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1476" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 56,
+				"x" : 1149,
+				"z" : -441
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1476,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {}
+		},
+		"1507" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 9,
+				"z" : 8
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:containers:input_table:ground:clay",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 2,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 90,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1507
+		},
+		"1500" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 13
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:potter:workbench",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 270,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1500
+		},
+		"1470" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1127,
+				"z" : -435
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 16,
+						"z" : -8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 15,
+						"z" : -16
+					},
+					"tag" : 5538193
+				}
+			],
+			"bid" : 1470,
+			"masks" : {
+				"1424" : true
+			},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {
+				"1446" : true
+			},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1475" : true,
+				"1424" : true
+			}
+		},
+		"1483" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 45,
+				"x" : 1133,
+				"z" : -454
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 5,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 1,
+						"z" : 6
+					},
+					"tag" : 7630183
+				}
+			],
+			"bid" : 1483,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1486" : true
+			},
+			"supports" : {
+				"1484" : true,
+				"1485" : true
+			},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1446" : true,
+				"1425" : true
+			}
+		},
+		"1435" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 41,
+				"x" : 1123,
+				"z" : -448
+			},
+			"fixtures" : {
+				"1489" : true
+			},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 8,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 6,
+						"z" : 7
+					},
+					"tag" : 7368787
+				}
+			],
+			"bid" : 1435,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1425" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1425" : true
+			}
+		},
+		"1434" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 0,
+				"x" : 0,
+				"z" : -1
+			},
+			"adjacent" : {},
+			"fixtures" : {},
+			"cutter" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 4,
+						"x" : 2,
+						"z" : 1
+					}
+				}
+			],
+			"placement_walls" : true,
+			"masks" : {},
+			"uri" : "stonehearth:portals:amberstone_tunnel_door",
+			"quality" : 1,
+			"total_mask" : {},
+			"rotation" : 0,
+			"sub_data_bid" : 1428,
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 4,
+						"x" : 2,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {
+				"1425" : true
+			},
+			"placement_ground" : true,
+			"owner_bid" : 1425,
+			"color_region" : {},
+			"origin" : {
+				"y" : 1,
+				"x" : 8,
+				"z" : 1
+			},
+			"bid" : 1434
+		},
+		"1485" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 46,
+				"x" : 1137,
+				"z" : -448
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 1
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -3,
+						"z" : 0
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 0,
+						"z" : 1
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 0
+					},
+					"tag" : 7630183
+				}
+			],
+			"bid" : 1485,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1483" : true
+			},
+			"supports" : {
+				"1446" : true
+			},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1446" : true,
+				"1484" : true
+			}
+		},
+		"1425" : {
+			"floor_shape" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 17,
+						"z" : 18
+					}
+				}
+			],
+			"perimeter" : [
+				{
+					"y" : 17,
+					"x" : -1
+				},
+				{
+					"y" : 17,
+					"x" : 16
+				},
+				{
+					"y" : 1,
+					"x" : 16
+				},
+				{
+					"y" : 1,
+					"x" : -1
+				}
+			],
+			"origin" : {
+				"y" : 40,
+				"x" : 1122,
+				"z" : -456
+			},
+			"wall_map" : {
+				"room_id" : 1425,
+				"__classname" : "stonehearth:WallMap",
+				"total_mask" : [
+					{
+						"min" : {
+							"y" : 2,
+							"x" : -1,
+							"z" : 10
+						},
+						"max" : {
+							"y" : 4,
+							"x" : 0,
+							"z" : 12
+						}
+					},
+					{
+						"min" : {
+							"y" : 2,
+							"x" : 9,
+							"z" : 17
+						},
+						"max" : {
+							"y" : 4,
+							"x" : 11,
+							"z" : 18
+						}
+					},
+					{
+						"min" : {
+							"y" : 2,
+							"x" : -1,
+							"z" : 6
+						},
+						"max" : {
+							"y" : 4,
+							"x" : 0,
+							"z" : 8
+						}
+					},
+					{
+						"min" : {
+							"y" : 1,
+							"x" : 6,
+							"z" : 1
+						},
+						"max" : {
+							"y" : 5,
+							"x" : 10,
+							"z" : 2
+						}
+					},
+					{
+						"min" : {
+							"y" : 2,
+							"x" : 16,
+							"z" : 10
+						},
+						"max" : {
+							"y" : 4,
+							"x" : 17,
+							"z" : 12
+						}
+					},
+					{
+						"min" : {
+							"y" : 2,
+							"x" : 5,
+							"z" : 17
+						},
+						"max" : {
+							"y" : 4,
+							"x" : 7,
+							"z" : 18
+						}
+					},
+					{
+						"min" : {
+							"y" : 2,
+							"x" : 3,
+							"z" : 1
+						},
+						"max" : {
+							"y" : 4,
+							"x" : 5,
+							"z" : 2
+						}
+					}
+				],
+				"lookup" : {
+					"(1.00, -0.00, -1.00)" : [
+						{
+							"removed" : false,
+							"origin" : {
+								"y" : 0,
+								"x" : 0,
+								"z" : 0
+							},
+							"adjacent" : {},
+							"wall_id" : 1429,
+							"fixtures" : {
+								"1472" : true,
+								"1471" : true
+							},
+							"supports" : {},
+							"brush" : "#918154",
+							"key" : {
+								"y" : 0,
+								"x" : 1,
+								"z" : -1
+							},
+							"invalid_placement" : false,
+							"bid" : 1425,
+							"masks" : {},
+							"room_id" : 1425,
+							"masked" : {},
+							"offset" : 1,
+							"height" : 4,
+							"total_mask" : [
+								{
+									"min" : {
+										"y" : 2,
+										"x" : -1,
+										"z" : 10
+									},
+									"max" : {
+										"y" : 4,
+										"x" : 0,
+										"z" : 12
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : -1,
+										"z" : 6
+									},
+									"max" : {
+										"y" : 4,
+										"x" : 0,
+										"z" : 8
+									}
+								}
+							],
+							"hole_region" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 2,
+										"x" : 0,
+										"z" : 5
+									}
+								},
+								{
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 13
+									},
+									"max" : {
+										"y" : 2,
+										"x" : 0,
+										"z" : 18
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : -1,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 0,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : -1,
+										"z" : 13
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 0,
+										"z" : 18
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : -1,
+										"z" : 2
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 0,
+										"z" : 5
+									}
+								}
+							],
+							"max" : 17,
+							"__classname" : "stonehearth:PerimeterWallData",
+							"supported" : {},
+							"building_id" : 1223590,
+							"min" : 1,
+							"flushed" : false,
+							"column_brush" : "#807147",
+							"normal" : {
+								"y" : 0,
+								"x" : -1,
+								"z" : 0
+							},
+							"p2" : {
+								"y" : 17,
+								"x" : -1
+							},
+							"color_region" : [
+								{
+									"max" : {
+										"y" : 3,
+										"x" : 0,
+										"z" : 6
+									},
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 5
+									},
+									"tag" : 5538193
+								},
+								{
+									"max" : {
+										"y" : 3,
+										"x" : 0,
+										"z" : 13
+									},
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 12
+									},
+									"tag" : 5538193
+								},
+								{
+									"max" : {
+										"y" : 5,
+										"x" : 0,
+										"z" : 12
+									},
+									"min" : {
+										"y" : 4,
+										"x" : -1,
+										"z" : 6
+									},
+									"tag" : 4682112
+								}
+							],
+							"shape" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 5,
+										"x" : 0,
+										"z" : 18
+									}
+								}
+							],
+							"p1" : {
+								"y" : 1,
+								"x" : -1
+							}
+						}
+					],
+					"(-0.00, 1.00, 1.00)" : [
+						{
+							"removed" : false,
+							"origin" : {
+								"y" : 0,
+								"x" : 0,
+								"z" : 0
+							},
+							"adjacent" : {},
+							"wall_id" : 1428,
+							"fixtures" : {
+								"1508" : true,
+								"1430" : true,
+								"1434" : true
+							},
+							"supports" : {},
+							"brush" : "#918154",
+							"key" : {
+								"y" : 1,
+								"x" : 0,
+								"z" : 1
+							},
+							"invalid_placement" : false,
+							"bid" : 1425,
+							"masks" : {},
+							"room_id" : 1425,
+							"masked" : {},
+							"offset" : 1,
+							"height" : 8,
+							"total_mask" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : 6,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 5,
+										"x" : 10,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : 4,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 4,
+										"x" : 5,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : 3,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 4,
+										"x" : 4,
+										"z" : 2
+									}
+								}
+							],
+							"hole_region" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 2,
+										"x" : 2,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 1,
+										"x" : 14,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 2,
+										"x" : 17,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : -1,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 2,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : 14,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 17,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 7,
+										"x" : -1,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 9,
+										"x" : 2,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 7,
+										"x" : 14,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 9,
+										"x" : 17,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 8,
+										"x" : 2,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 9,
+										"x" : 14,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 7,
+										"x" : 2,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 8,
+										"x" : 3,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 7,
+										"x" : 12,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 8,
+										"x" : 14,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 7,
+										"x" : 3,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 8,
+										"x" : 4,
+										"z" : 2
+									}
+								},
+								{
+									"min" : {
+										"y" : 1,
+										"x" : 13,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 14,
+										"z" : 2
+									}
+								}
+							],
+							"max" : 16,
+							"__classname" : "stonehearth:PerimeterWallData",
+							"supported" : {},
+							"building_id" : 1223590,
+							"min" : -1,
+							"flushed" : false,
+							"column_brush" : "#807147",
+							"normal" : {
+								"y" : 0,
+								"x" : 0,
+								"z" : -1
+							},
+							"p2" : {
+								"y" : 1,
+								"x" : -1
+							},
+							"color_region" : [
+								{
+									"max" : {
+										"y" : 5,
+										"x" : 3,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 1,
+										"x" : 2,
+										"z" : 1
+									},
+									"tag" : 5538193
+								},
+								{
+									"max" : {
+										"y" : 5,
+										"x" : 14,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 2,
+										"x" : 13,
+										"z" : 1
+									},
+									"tag" : 5538193
+								},
+								{
+									"max" : {
+										"y" : 7,
+										"x" : 4,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 6,
+										"x" : 3,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 8,
+										"x" : 5,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 6,
+										"x" : 4,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 7,
+										"x" : 7,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 6,
+										"x" : 6,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 8,
+										"x" : 12,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 7,
+										"x" : 11,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 8,
+										"x" : 6,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 6,
+										"x" : 5,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 8,
+										"x" : 11,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 7,
+										"x" : 6,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 6,
+										"x" : 3,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 5,
+										"x" : 2,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 7,
+										"x" : 14,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 5,
+										"x" : 13,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 7,
+										"x" : 13,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 6,
+										"x" : 7,
+										"z" : 1
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 2,
+										"x" : 14,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 1,
+										"x" : 13,
+										"z" : 1
+									},
+									"tag" : 7630183
+								},
+								{
+									"max" : {
+										"y" : 5,
+										"x" : 12,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 3,
+										"x" : 11,
+										"z" : 1
+									},
+									"tag" : 7630183
+								},
+								{
+									"max" : {
+										"y" : 2,
+										"x" : 13,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 1,
+										"x" : 12,
+										"z" : 1
+									},
+									"tag" : 7630183
+								},
+								{
+									"max" : {
+										"y" : 3,
+										"x" : 12,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 1,
+										"x" : 11,
+										"z" : 1
+									},
+									"tag" : 7630183
+								},
+								{
+									"max" : {
+										"y" : 5,
+										"x" : 13,
+										"z" : 2
+									},
+									"min" : {
+										"y" : 2,
+										"x" : 12,
+										"z" : 1
+									},
+									"tag" : 7630183
+								}
+							],
+							"shape" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 9,
+										"x" : 17,
+										"z" : 2
+									}
+								}
+							],
+							"p1" : {
+								"y" : 1,
+								"x" : 16
+							}
+						}
+					],
+					"(-0.00, 1.00, 17.00)" : [
+						{
+							"removed" : false,
+							"origin" : {
+								"y" : 0,
+								"x" : 0,
+								"z" : 0
+							},
+							"adjacent" : {},
+							"wall_id" : 1426,
+							"fixtures" : {
+								"1432" : true,
+								"1433" : true
+							},
+							"supports" : {},
+							"brush" : "#918154",
+							"key" : {
+								"y" : 1,
+								"x" : 0,
+								"z" : 17
+							},
+							"invalid_placement" : false,
+							"bid" : 1425,
+							"masks" : {},
+							"room_id" : 1425,
+							"masked" : {},
+							"offset" : 1,
+							"height" : 4,
+							"total_mask" : [
+								{
+									"min" : {
+										"y" : 2,
+										"x" : 9,
+										"z" : 17
+									},
+									"max" : {
+										"y" : 4,
+										"x" : 11,
+										"z" : 18
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : 5,
+										"z" : 17
+									},
+									"max" : {
+										"y" : 4,
+										"x" : 7,
+										"z" : 18
+									}
+								}
+							],
+							"hole_region" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 17
+									},
+									"max" : {
+										"y" : 2,
+										"x" : 4,
+										"z" : 18
+									}
+								},
+								{
+									"min" : {
+										"y" : 1,
+										"x" : 12,
+										"z" : 17
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 17,
+										"z" : 18
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : -1,
+										"z" : 17
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 4,
+										"z" : 18
+									}
+								}
+							],
+							"max" : 16,
+							"__classname" : "stonehearth:PerimeterWallData",
+							"supported" : {},
+							"building_id" : 1223590,
+							"min" : -1,
+							"flushed" : false,
+							"column_brush" : "#807147",
+							"normal" : {
+								"y" : 0,
+								"x" : 0,
+								"z" : 1
+							},
+							"p2" : {
+								"y" : 17,
+								"x" : 16
+							},
+							"color_region" : [
+								{
+									"max" : {
+										"y" : 3,
+										"x" : 12,
+										"z" : 18
+									},
+									"min" : {
+										"y" : 1,
+										"x" : 11,
+										"z" : 17
+									},
+									"tag" : 5538193
+								},
+								{
+									"max" : {
+										"y" : 3,
+										"x" : 5,
+										"z" : 18
+									},
+									"min" : {
+										"y" : 1,
+										"x" : 4,
+										"z" : 17
+									},
+									"tag" : 5538193
+								},
+								{
+									"max" : {
+										"y" : 5,
+										"x" : 11,
+										"z" : 18
+									},
+									"min" : {
+										"y" : 4,
+										"x" : 5,
+										"z" : 17
+									},
+									"tag" : 4682112
+								}
+							],
+							"shape" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : -1,
+										"z" : 17
+									},
+									"max" : {
+										"y" : 5,
+										"x" : 17,
+										"z" : 18
+									}
+								}
+							],
+							"p1" : {
+								"y" : 17,
+								"x" : -1
+							}
+						}
+					],
+					"(1.00, -0.00, 16.00)" : [
+						{
+							"removed" : false,
+							"origin" : {
+								"y" : 0,
+								"x" : 0,
+								"z" : 0
+							},
+							"adjacent" : {},
+							"wall_id" : 1427,
+							"fixtures" : {
+								"1431" : true
+							},
+							"supports" : {},
+							"brush" : "#918154",
+							"key" : {
+								"y" : 0,
+								"x" : 1,
+								"z" : 16
+							},
+							"invalid_placement" : false,
+							"bid" : 1425,
+							"masks" : {},
+							"room_id" : 1425,
+							"masked" : {},
+							"offset" : 1,
+							"height" : 4,
+							"total_mask" : [
+								{
+									"min" : {
+										"y" : 2,
+										"x" : 16,
+										"z" : 10
+									},
+									"max" : {
+										"y" : 4,
+										"x" : 17,
+										"z" : 12
+									}
+								}
+							],
+							"hole_region" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : 16,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 2,
+										"x" : 17,
+										"z" : 5
+									}
+								},
+								{
+									"min" : {
+										"y" : 1,
+										"x" : 16,
+										"z" : 13
+									},
+									"max" : {
+										"y" : 2,
+										"x" : 17,
+										"z" : 18
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : 16,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 17,
+										"z" : 5
+									}
+								},
+								{
+									"min" : {
+										"y" : 2,
+										"x" : 16,
+										"z" : 13
+									},
+									"max" : {
+										"y" : 7,
+										"x" : 17,
+										"z" : 18
+									}
+								},
+								{
+									"min" : {
+										"y" : 1,
+										"x" : 16,
+										"z" : 5
+									},
+									"max" : {
+										"y" : 5,
+										"x" : 17,
+										"z" : 9
+									}
+								}
+							],
+							"max" : 17,
+							"__classname" : "stonehearth:PerimeterWallData",
+							"supported" : {},
+							"building_id" : 1223590,
+							"min" : 1,
+							"flushed" : false,
+							"column_brush" : "#807147",
+							"normal" : {
+								"y" : 0,
+								"x" : 1,
+								"z" : 0
+							},
+							"p2" : {
+								"y" : 1,
+								"x" : 16
+							},
+							"color_region" : [
+								{
+									"max" : {
+										"y" : 3,
+										"x" : 17,
+										"z" : 13
+									},
+									"min" : {
+										"y" : 1,
+										"x" : 16,
+										"z" : 12
+									},
+									"tag" : 5538193
+								},
+								{
+									"max" : {
+										"y" : 3,
+										"x" : 17,
+										"z" : 6
+									},
+									"min" : {
+										"y" : 2,
+										"x" : 16,
+										"z" : 5
+									},
+									"tag" : 5538193
+								},
+								{
+									"max" : {
+										"y" : 5,
+										"x" : 17,
+										"z" : 12
+									},
+									"min" : {
+										"y" : 4,
+										"x" : 16,
+										"z" : 6
+									},
+									"tag" : 4682112
+								},
+								{
+									"max" : {
+										"y" : 2,
+										"x" : 17,
+										"z" : 8
+									},
+									"min" : {
+										"y" : 1,
+										"x" : 16,
+										"z" : 5
+									},
+									"tag" : 7630183
+								}
+							],
+							"shape" : [
+								{
+									"min" : {
+										"y" : 1,
+										"x" : 16,
+										"z" : 1
+									},
+									"max" : {
+										"y" : 5,
+										"x" : 17,
+										"z" : 18
+									}
+								}
+							],
+							"p1" : {
+								"y" : 17,
+								"x" : 16
+							}
+						}
+					],
+					"size" : 4
+				}
+			},
+			"fixtures" : {
+				"1506" : true,
+				"1505" : true,
+				"1503" : true,
+				"1502" : true,
+				"1504" : true,
+				"1498" : true,
+				"1499" : true,
+				"1500" : true,
+				"1507" : true,
+				"1501" : true
+			},
+			"bid" : 1425,
+			"masks" : {
+				"1433" : true,
+				"1472" : true,
+				"1431" : true,
+				"1432" : true,
+				"1430" : true,
+				"1434" : true,
+				"1471" : true
+			},
+			"masked" : {},
+			"hole_region" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 5
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 2
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 3
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 2
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 16,
+						"z" : 1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 17,
+						"z" : 5
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 15,
+						"z" : 1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 16,
+						"z" : 3
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 14,
+						"z" : 1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 15,
+						"z" : 2
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 16
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 17
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 15
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 16
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 13
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 16
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 17
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 4,
+						"z" : 18
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 14,
+						"z" : 17
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 17,
+						"z" : 18
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 14,
+						"z" : 16
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 15,
+						"z" : 17
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 15,
+						"z" : 15
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 17,
+						"z" : 17
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 16,
+						"z" : 13
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 17,
+						"z" : 15
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : 17
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : 18
+					}
+				}
+			],
+			"flushed" : false,
+			"__classname" : "stonehearth:RoomData",
+			"supported" : {},
+			"floor_brush" : "#918154",
+			"invalid_placement" : false,
+			"fusing" : false,
+			"adjacent" : {
+				"1446" : true,
+				"1484" : true,
+				"1475" : true,
+				"1424" : true,
+				"1487" : true,
+				"1483" : true,
+				"1418" : true,
+				"1435" : true
+			},
+			"color_region" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : 2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 13,
+						"z" : 1
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 17,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 16,
+						"z" : 5
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : 4
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 13,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 16,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 14,
+						"z" : 3
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 15,
+						"z" : 3
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 14,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : 4
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 11,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : 5
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : 4
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : 2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 11,
+						"z" : 1
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : 6
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : 6
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : 5
+					},
+					"tag" : 6051150
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : 6
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 13,
+						"z" : 4
+					},
+					"tag" : 6051150
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 13,
+						"z" : 7
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 11,
+						"z" : 8
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 12,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 11,
+						"z" : 4
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : 7
+					},
+					"tag" : 7630183
+				}
+			],
+			"supports" : {
+				"1486" : true,
+				"1475" : true,
+				"1446" : true,
+				"1435" : true
+			},
+			"removed" : false
+		},
+		"1443" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 43,
+				"x" : 1134,
+				"z" : -458
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -14,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -15,
+						"z" : 7
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1443,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1420" : {
+			"removed" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"origin" : {
+				"y" : 39,
+				"x" : 1142,
+				"z" : -449
+			},
+			"flushed" : false,
+			"__classname" : "stonehearth:RoadData",
+			"supported" : {},
+			"fixtures" : {},
+			"invalid_placement" : false,
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -13,
+						"z" : -9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -14,
+						"z" : -10
+					},
+					"tag" : 7250355
+				}
+			],
+			"adjacent" : {},
+			"supports" : {},
+			"bid" : 1420,
+			"masks" : {},
+			"hole_region" : {},
+			"masked" : {}
+		},
+		"1432" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 0,
+				"x" : 0,
+				"z" : -1
+			},
+			"adjacent" : {},
+			"fixtures" : {},
+			"cutter" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"placement_walls" : true,
+			"masks" : {},
+			"uri" : "stonehearth:portals:amberstone_window",
+			"quality" : -1,
+			"total_mask" : {},
+			"rotation" : 180,
+			"sub_data_bid" : 1426,
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {
+				"1425" : true
+			},
+			"placement_ground" : true,
+			"owner_bid" : 1425,
+			"color_region" : {},
+			"origin" : {
+				"y" : 2,
+				"x" : 6,
+				"z" : 17
+			},
+			"bid" : 1432
+		},
+		"1474" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1141,
+				"z" : -454
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1474,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {}
+		},
+		"1461" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1137,
+				"z" : -457
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -16,
+						"z" : 4
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -17,
+						"z" : 3
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1461,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1463" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1119,
+				"z" : -435
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 24,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 23,
+						"z" : -1
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1463,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1478" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 44,
+				"x" : 1134,
+				"z" : -438
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1478,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {}
+		},
+		"1457" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1138,
+				"z" : -460
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -20,
+						"z" : 6
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -21,
+						"z" : 5
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1457,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1433" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 0,
+				"x" : 0,
+				"z" : -1
+			},
+			"adjacent" : {},
+			"fixtures" : {},
+			"cutter" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"placement_walls" : true,
+			"masks" : {},
+			"uri" : "stonehearth:portals:amberstone_window",
+			"quality" : -1,
+			"total_mask" : {},
+			"rotation" : 180,
+			"sub_data_bid" : 1426,
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {
+				"1425" : true
+			},
+			"placement_ground" : true,
+			"owner_bid" : 1425,
+			"color_region" : {},
+			"origin" : {
+				"y" : 2,
+				"x" : 10,
+				"z" : 17
+			},
+			"bid" : 1433
+		},
+		"1454" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1135,
+				"z" : -433
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1454,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {}
+		},
+		"1467" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1121,
+				"z" : -462
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -5,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 23
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1467,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1510" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 40,
+				"x" : 1127,
+				"z" : -456
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:decoration:craftsman_statue:statue_rabbit",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : -1,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 0,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1510
+		},
+		"1506" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 2,
+				"z" : 15
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:containers:input_bin:clay",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 2,
+						"z" : 2
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 0,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1506
+		},
+		"1446" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 43,
+				"x" : 1127,
+				"z" : -437
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 13,
+						"z" : -7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 13,
+						"z" : -4
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 13,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 11,
+						"z" : -11
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 13,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 12,
+						"z" : -7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 13,
+						"z" : -9
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 12,
+						"z" : -11
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : -9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : -10
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 12,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 11,
+						"z" : -11
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 11,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 10,
+						"z" : -11
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 11,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 8,
+						"z" : -10
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 8,
+						"z" : -3
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -2,
+						"z" : -17
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 8,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -2,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 11,
+						"z" : 1
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 6,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 9,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 8,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 8,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 6,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 8,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 7,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 8,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 2,
+						"x" : -2,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 0,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -1,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -2,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 8,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 2,
+						"x" : -2,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 4,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 9,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 8,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 8,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -1,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 8,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 7,
+						"z" : -19
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : -1,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -2,
+						"z" : -19
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -1,
+						"z" : -18
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -2,
+						"z" : -19
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -1,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -3,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -2,
+						"z" : -18
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -4,
+						"z" : -19
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -3,
+						"z" : -18
+					},
+					"min" : {
+						"y" : 3,
+						"x" : -4,
+						"z" : -19
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -3,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 2,
+						"x" : -4,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -4,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 8,
+						"z" : -18
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -1,
+						"z" : -19
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -3,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -4,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : -2,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -5,
+						"z" : -14
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -4,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -5,
+						"z" : -14
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -5,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 3,
+						"x" : -6,
+						"z" : -14
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : -5,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 2,
+						"x" : -7,
+						"z" : -14
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -6,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -7,
+						"z" : -14
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -6,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -7,
+						"z" : -7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -6,
+						"z" : -9
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -7,
+						"z" : -11
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : -2,
+						"z" : -14
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -5,
+						"z" : -17
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -4,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -5,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -4,
+						"z" : -14
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -6,
+						"z" : -15
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -4,
+						"z" : -15
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -5,
+						"z" : -17
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -5,
+						"z" : -14
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -6,
+						"z" : -15
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : -10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : -11
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : -10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 13,
+						"z" : -12
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -5,
+						"z" : -15
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -6,
+						"z" : -16
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : -2,
+						"z" : -17
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -4,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -5,
+						"z" : -16
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : -17
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -5,
+						"z" : -14
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -7,
+						"z" : -16
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 11,
+						"z" : -3
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 8,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 10,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 9,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 12,
+						"z" : -5
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 11,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 12,
+						"z" : -3
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 11,
+						"z" : -5
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 12,
+						"z" : -3
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 11,
+						"z" : -4
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 11,
+						"z" : -3
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 10,
+						"z" : -4
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 10,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 8,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 11,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 10,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 9,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 8,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 10,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 9,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 12,
+						"z" : -4
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 11,
+						"z" : -5
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 11,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 10,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 10,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 9,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 12,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 11,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 11,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 10,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 10,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 9,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 12,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 11,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 13,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 12,
+						"z" : -4
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 11,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 10,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 12,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 11,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 12,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 11,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 11,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 10,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 11,
+						"z" : 1
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 8,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 15,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 13,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 15,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 14,
+						"z" : -5
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 16,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 15,
+						"z" : -14
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 16,
+						"z" : -15
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 15,
+						"z" : -16
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 17,
+						"z" : -14
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 15,
+						"z" : -15
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 17,
+						"z" : -6
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 16,
+						"z" : -14
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 15,
+						"z" : -6
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 14,
+						"z" : -7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 10,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 6,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 11,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 9,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 11,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 10,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 12,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 12,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -1,
+						"x" : 11,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 12,
+						"z" : 3
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 11,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : 1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 11,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 13,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 12,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 14,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 13,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 11,
+						"z" : 3
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -2,
+						"z" : 2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 17,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 16,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 17,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 14,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 16,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 14,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 15,
+						"z" : 1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 14,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 14,
+						"z" : 1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 13,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 14,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 12,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 13,
+						"z" : 1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 12,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : -2,
+						"z" : -3
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -5,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : -2,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 5,
+						"x" : -4,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -2,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -5,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : -5,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 4,
+						"x" : -6,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -2,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -5,
+						"z" : -4
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -6,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -3,
+						"z" : -1
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -3,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -4,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -4,
+						"z" : -3
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -6,
+						"z" : -4
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -5,
+						"z" : -3
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : -4
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -4,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -5,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -5,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -6,
+						"z" : -3
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : -2,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : -3,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -5,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : -6,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -7,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -7,
+						"z" : -4
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -5,
+						"z" : 0
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -6,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -7,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -6,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 1
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -5,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -2,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 1
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : -7,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -8,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -7,
+						"z" : -2
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -8,
+						"z" : -7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : -8,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -9,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -8,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -9,
+						"z" : -5
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : -8,
+						"z" : -6
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -9,
+						"z" : -7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -1,
+						"x" : -5,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -3,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -5,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -2,
+						"z" : 3
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -5,
+						"z" : 2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -9,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -10,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -9,
+						"z" : -6
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -11,
+						"z" : -15
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -8,
+						"z" : -15
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -10,
+						"z" : -16
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -7,
+						"z" : -16
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -9,
+						"z" : -17
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -6,
+						"z" : -17
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -8,
+						"z" : -18
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -7,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -9,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -6,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -8,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -5,
+						"z" : 1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -7,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -5,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -6,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -10,
+						"z" : -2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -11,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -5,
+						"z" : 3
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -6,
+						"z" : 2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -6,
+						"z" : 2
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -8,
+						"z" : 1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -7,
+						"z" : 1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -9,
+						"z" : 0
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -8,
+						"z" : 0
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -10,
+						"z" : -1
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : -9,
+						"z" : -1
+					},
+					"min" : {
+						"y" : -2,
+						"x" : -11,
+						"z" : -2
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : -1,
+						"x" : 17,
+						"z" : -3
+					},
+					"min" : {
+						"y" : -2,
+						"x" : 16,
+						"z" : -6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 11,
+						"z" : -10
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 8,
+						"z" : -13
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1446,
+			"masks" : {},
+			"masked" : {
+				"1424" : true
+			},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1475" : true,
+				"1485" : true,
+				"1470" : true,
+				"1425" : true,
+				"1484" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1475" : true,
+				"1485" : true,
+				"1487" : true,
+				"1483" : true,
+				"1425" : true,
+				"1424" : true
+			}
+		},
+		"1437" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1143,
+				"z" : -439
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1437,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {}
+		},
+		"1436" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1143,
+				"z" : -436
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1436,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {}
+		},
+		"1448" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 43,
+				"x" : 1134,
+				"z" : -437
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1448,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {}
+		},
+		"1462" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1118,
+				"z" : -437
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 24,
+						"z" : 3
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 22,
+						"z" : 2
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1462,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1475" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1134,
+				"z" : -442
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 7,
+						"z" : -10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 6,
+						"z" : -11
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 6,
+						"z" : -10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 5,
+						"z" : -12
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 4,
+						"z" : -11
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 3,
+						"z" : -12
+					},
+					"tag" : 6051150
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 6,
+						"z" : -12
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 5,
+						"z" : -13
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 3,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 2,
+						"z" : -14
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 5,
+						"z" : -5
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 4,
+						"z" : -9
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 4,
+						"z" : -12
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 3,
+						"z" : -13
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 4,
+						"z" : -11
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 3,
+						"z" : -12
+					},
+					"tag" : 6051150
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 6,
+						"z" : -9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 5,
+						"z" : -10
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 6,
+						"z" : -12
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : -13
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 6,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 2,
+						"z" : -14
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 6,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 5,
+						"z" : -9
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 7,
+						"z" : -7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 6,
+						"z" : -10
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 4,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 2,
+						"z" : -14
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 6,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 5,
+						"z" : -14
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : -12
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 4,
+						"z" : -14
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 6,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 2,
+						"z" : -14
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 5,
+						"z" : -12
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 4,
+						"z" : -13
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 6,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 3,
+						"z" : -14
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 5,
+						"z" : -5
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 4,
+						"z" : -9
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 2,
+						"z" : -13
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 1,
+						"z" : -14
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 5,
+						"z" : -11
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 4,
+						"z" : -12
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 4,
+						"z" : -11
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 3,
+						"z" : -12
+					},
+					"tag" : 6051150
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 5,
+						"z" : -11
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 4,
+						"z" : -12
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 5,
+						"z" : -9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 4,
+						"z" : -10
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 4,
+						"z" : -11
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 3,
+						"z" : -12
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 5,
+						"z" : -9
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 4,
+						"z" : -11
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 5,
+						"z" : -10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 4,
+						"z" : -13
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 4,
+						"z" : -12
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 3,
+						"z" : -13
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 3,
+						"z" : -12
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 2,
+						"z" : -13
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : -10
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 4,
+						"z" : -11
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : -9
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 4,
+						"z" : -10
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : -11
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 4,
+						"z" : -12
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 8,
+						"z" : -7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 7,
+						"z" : -11
+					},
+					"tag" : 7630183
+				}
+			],
+			"bid" : 1475,
+			"masks" : {},
+			"masked" : {
+				"1451" : true
+			},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1425" : true
+			},
+			"supports" : {
+				"1446" : true,
+				"1487" : true
+			},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1451" : true,
+				"1446" : true,
+				"1479" : true,
+				"1470" : true,
+				"1425" : true,
+				"1424" : true
+			}
+		},
+		"1473" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1139,
+				"z" : -452
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1473,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {}
+		},
+		"1447" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1130,
+				"z" : -436
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 12,
+						"z" : -10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 11,
+						"z" : -13
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1447,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1456" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1137,
+				"z" : -434
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 7,
+						"z" : -19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 6,
+						"z" : -20
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1456,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1487" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 45,
+				"x" : 1135,
+				"z" : -457
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 1,
+						"z" : 5
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 0,
+						"z" : 4
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 3,
+						"z" : 4
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 0,
+						"z" : 3
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : 3
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 3,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 0,
+						"z" : 6
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 1,
+						"z" : 6
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 0,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 1,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 0,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 3,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 0,
+						"z" : 6
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 5,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 3,
+						"z" : 6
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : 6
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 3,
+						"z" : 4
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : 4
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 2,
+						"z" : 3
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 4,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 3,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 3,
+						"z" : 4
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 1,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 3,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 4,
+						"x" : 1,
+						"z" : 6
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 5,
+						"z" : 6
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 3,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 3,
+						"z" : 4
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 1,
+						"z" : 2
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 1,
+						"z" : 6
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 0,
+						"z" : 5
+					},
+					"tag" : 7630183
+				},
+				{
+					"max" : {
+						"y" : 6,
+						"x" : 4,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 5,
+						"x" : 3,
+						"z" : 3
+					},
+					"tag" : 7630183
+				}
+			],
+			"bid" : 1487,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1475" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1446" : true,
+				"1425" : true
+			}
+		},
+		"1458" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1137,
+				"z" : -461
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -20,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -21,
+						"z" : 7
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1458,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1442" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1130,
+				"z" : -459
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -11,
+						"z" : 13
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -12,
+						"z" : 11
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1442,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1504" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 1,
+				"z" : 6
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:containers:input_bin:clay",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 2
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 270,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1504
+		},
+		"1489" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 6,
+				"z" : 7
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:decoration:amberstone_teapot",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1435,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 0,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1489
+		},
+		"1459" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1135,
+				"z" : -462
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -19,
+						"z" : 11
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -20,
+						"z" : 9
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1459,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1505" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 5,
+				"z" : 15
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:containers:input_bin:clay",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 2,
+						"z" : 2
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 0,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1505
+		},
+		"1464" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1122,
+				"z" : -433
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 23,
+						"z" : -4
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 22,
+						"z" : -6
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1464,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1424" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1122,
+				"z" : -462
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 19,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 1,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 16,
+						"z" : 28
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 20,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 16,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 4,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : 22
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 22
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 21
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 6
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -3,
+						"z" : 7
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -2,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 8
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 7
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 8
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : 9
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 11
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 10
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -3,
+						"z" : 9
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 11
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 10
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 11
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -1,
+						"z" : 18
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 16
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 21
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 19
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 2,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 7
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 1,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 0,
+						"z" : 7
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -1,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -2,
+						"z" : 8
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 1,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 8
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -2,
+						"z" : 10
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 9
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 0,
+						"z" : 10
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 9
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -2,
+						"z" : 11
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 10
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : -1,
+						"z" : 11
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -2,
+						"z" : 9
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 0,
+						"z" : 11
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 10
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 12
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 11
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -3,
+						"z" : 12
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 11
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : -1,
+						"z" : 12
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 11
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 0,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 8
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 7
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -1,
+						"z" : 14
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 12
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 16
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 14
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -3,
+						"z" : 16
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 14
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : -1,
+						"z" : 16
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 14
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 18
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -3,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 18
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : -1,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 18
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -2,
+						"z" : 20
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 19
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -2,
+						"z" : 21
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 20
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 0,
+						"z" : 21
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -2,
+						"z" : 19
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 22
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 21
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 1,
+						"z" : 22
+					},
+					"min" : {
+						"y" : 2,
+						"x" : -1,
+						"z" : 21
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 0,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 22
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 2,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 22
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : -1,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -2,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 2,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 4,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 0,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 7
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -2,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -3,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 20,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 12,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 21,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 14,
+						"z" : 22
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 22,
+						"z" : 22
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 15,
+						"z" : 21
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 22,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 20,
+						"z" : 11
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 20,
+						"z" : 18
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 17,
+						"z" : 16
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 22,
+						"z" : 21
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 16,
+						"z" : 19
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 19,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : 22
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 18,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 17,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 14,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 12,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 15,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 16,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 14,
+						"z" : 22
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 19,
+						"z" : 22
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 15,
+						"z" : 21
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 17,
+						"z" : 22
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 15,
+						"z" : 21
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 20,
+						"z" : 20
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 18,
+						"z" : 19
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 19,
+						"z" : 21
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 18,
+						"z" : 20
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 18,
+						"z" : 21
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 16,
+						"z" : 19
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 20,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 17,
+						"z" : 18
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 19,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 17,
+						"z" : 18
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 20,
+						"z" : 16
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 17,
+						"z" : 14
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 19,
+						"z" : 16
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 17,
+						"z" : 14
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 18,
+						"z" : 16
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 17,
+						"z" : 14
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 22,
+						"z" : 11
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 20,
+						"z" : 10
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 19,
+						"z" : 14
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 18,
+						"z" : 13
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 20,
+						"z" : 14
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 18,
+						"z" : 13
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -5,
+						"z" : 10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 9
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 11,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 9,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 7,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 5,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 11,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 9,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 0,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 18,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 17,
+						"z" : 18
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 16,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 15,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 16,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 15,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 5,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 5,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 3,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 9,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 7,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 14,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 11,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 4,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 3,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 5,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 4,
+						"z" : 24
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 13,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 11,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 12,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 11,
+						"z" : 24
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 13,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 12,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 9,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 7,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 9,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 5,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 13,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 11,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 5,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 3,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 2,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 15,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 14,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 17,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 16,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 20,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 19,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -5,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 22
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -5,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 24
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 26
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 18,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 16,
+						"z" : 26
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 21,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 20,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 22,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 21,
+						"z" : 22
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : 25
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 14,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 13,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 3,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 25
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 24
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 22,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 21,
+						"z" : 23
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 4,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 3,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 3,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 2,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 1,
+						"z" : 22
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 0,
+						"z" : 21
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 13,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 12,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 3,
+						"x" : 14,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 2,
+						"x" : 13,
+						"z" : 23
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -6,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -7,
+						"z" : 11
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 23,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 22,
+						"z" : 9
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 22,
+						"z" : 10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 21,
+						"z" : 9
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -2,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -3,
+						"z" : 6
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -4,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -5,
+						"z" : 8
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 5,
+						"x" : 2,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 1,
+						"z" : 7
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 23,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 22,
+						"z" : 19
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 22,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 21,
+						"z" : 24
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 21,
+						"z" : 26
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 20,
+						"z" : 25
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 19,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 18,
+						"z" : 26
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 20,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 19,
+						"z" : 26
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 18,
+						"z" : 28
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 17,
+						"z" : 27
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 0,
+						"z" : 28
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 27
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -1,
+						"z" : 28
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : 27
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 27
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 26
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -6,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -7,
+						"z" : 19
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 17,
+						"z" : 28
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 16,
+						"z" : 27
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -5,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -6,
+						"z" : 23
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 4,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 2,
+						"z" : 23
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 2,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 1,
+						"z" : 22
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 14,
+						"z" : 24
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 12,
+						"z" : 23
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 15,
+						"z" : 23
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 14,
+						"z" : 22
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 16,
+						"z" : 22
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 15,
+						"z" : 21
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 0,
+						"z" : 11
+					},
+					"min" : {
+						"y" : 3,
+						"x" : -1,
+						"z" : 9
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 1,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 0,
+						"z" : 8
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 17,
+						"z" : 21
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 16,
+						"z" : 19
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 0,
+						"z" : 21
+					},
+					"min" : {
+						"y" : 3,
+						"x" : -1,
+						"z" : 19
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -1,
+						"z" : 12
+					},
+					"min" : {
+						"y" : 3,
+						"x" : -2,
+						"z" : 11
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -1,
+						"z" : 16
+					},
+					"min" : {
+						"y" : 3,
+						"x" : -2,
+						"z" : 14
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : -1,
+						"z" : 19
+					},
+					"min" : {
+						"y" : 3,
+						"x" : -2,
+						"z" : 18
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 9,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 3,
+						"x" : 7,
+						"z" : 24
+					},
+					"tag" : 4682112
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 21,
+						"z" : 10
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 20,
+						"z" : 9
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 21,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 20,
+						"z" : 8
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 20,
+						"z" : 9
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 18,
+						"z" : 8
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 20,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 19,
+						"z" : 7
+					},
+					"tag" : 7385973
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 19,
+						"z" : 8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 18,
+						"z" : 7
+					},
+					"tag" : 5538193
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 19,
+						"z" : 7
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 18,
+						"z" : 6
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1424,
+			"masks" : {
+				"1446" : true
+			},
+			"masked" : {
+				"1470" : true
+			},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {
+				"1461" : true,
+				"1460" : true,
+				"1441" : true,
+				"1479" : true,
+				"1444" : true,
+				"1439" : true,
+				"1443" : true,
+				"1447" : true,
+				"1438" : true,
+				"1442" : true
+			},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1445" : true,
+				"1441" : true,
+				"1440" : true,
+				"1458" : true,
+				"1439" : true,
+				"1464" : true,
+				"1462" : true,
+				"1475" : true,
+				"1456" : true,
+				"1438" : true,
+				"1461" : true,
+				"1447" : true,
+				"1446" : true,
+				"1466" : true,
+				"1460" : true,
+				"1443" : true,
+				"1465" : true,
+				"1444" : true,
+				"1463" : true,
+				"1442" : true,
+				"1457" : true,
+				"1455" : true,
+				"1469" : true,
+				"1459" : true,
+				"1425" : true,
+				"1470" : true,
+				"1468" : true,
+				"1467" : true,
+				"1449" : true
+			}
+		},
+		"1453" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1135,
+				"z" : -437
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1453,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {}
+		},
+		"1486" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 41,
+				"x" : 1133,
+				"z" : -448
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 4,
+						"x" : 1,
+						"z" : 1
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"tag" : 7630183
+				}
+			],
+			"bid" : 1486,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1425" : true
+			},
+			"supports" : {
+				"1483" : true
+			},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {}
+		},
+		"1419" : {
+			"removed" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"origin" : {
+				"y" : 39,
+				"x" : 1139,
+				"z" : -449
+			},
+			"flushed" : false,
+			"__classname" : "stonehearth:RoadData",
+			"supported" : {},
+			"fixtures" : {},
+			"invalid_placement" : false,
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -7,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -11,
+						"z" : -8
+					},
+					"tag" : 7250355
+				},
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -9,
+						"z" : -8
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -10,
+						"z" : -9
+					},
+					"tag" : 7250355
+				}
+			],
+			"adjacent" : {},
+			"supports" : {
+				"1418" : true
+			},
+			"bid" : 1419,
+			"masks" : {},
+			"hole_region" : {},
+			"masked" : {}
+		},
+		"1439" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1119,
+				"z" : -448
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : 12,
+						"z" : 13
+					},
+					"min" : {
+						"y" : 0,
+						"x" : 10,
+						"z" : 12
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1439,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {
+				"1424" : true
+			},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {
+				"1424" : true
+			}
+		},
+		"1423" : {
+			"removed" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"origin" : {
+				"y" : 39,
+				"x" : 1141,
+				"z" : -451
+			},
+			"flushed" : false,
+			"__classname" : "stonehearth:RoadData",
+			"supported" : {},
+			"fixtures" : {},
+			"invalid_placement" : false,
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -14,
+						"z" : -6
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -15,
+						"z" : -7
+					},
+					"tag" : 7250355
+				}
+			],
+			"adjacent" : {},
+			"supports" : {},
+			"bid" : 1423,
+			"masks" : {},
+			"hole_region" : {},
+			"masked" : {}
+		},
+		"1430" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 0,
+				"x" : 0,
+				"z" : 1
+			},
+			"adjacent" : {},
+			"fixtures" : {},
+			"cutter" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"placement_walls" : true,
+			"masks" : {},
+			"uri" : "stonehearth:portals:amberstone_window",
+			"quality" : -1,
+			"total_mask" : {},
+			"rotation" : 0,
+			"sub_data_bid" : 1428,
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -1,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {
+				"1425" : true
+			},
+			"placement_ground" : true,
+			"owner_bid" : 1425,
+			"color_region" : {},
+			"origin" : {
+				"y" : 2,
+				"x" : 4,
+				"z" : 1
+			},
+			"bid" : 1430
+		},
+		"1499" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 5
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:potter:workbench",
+			"quality" : -1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 270,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1499
+		},
+		"1508" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 0,
+				"x" : 0,
+				"z" : -1
+			},
+			"adjacent" : {},
+			"fixtures" : {},
+			"cutter" : {},
+			"placement_walls" : true,
+			"masks" : {},
+			"uri" : "stonehearth:decoration:wooden_sign_potter",
+			"quality" : -1,
+			"total_mask" : {},
+			"rotation" : 0,
+			"sub_data_bid" : 1428,
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 0,
+						"z" : 0
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 1,
+						"z" : 1
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : false,
+			"owner_bid" : 1425,
+			"color_region" : {},
+			"origin" : {
+				"y" : 6,
+				"x" : 10,
+				"z" : 0
+			},
+			"bid" : 1508
+		},
+		"1502" : {
+			"removed" : false,
+			"direction" : {
+				"y" : 1,
+				"x" : 0,
+				"z" : 0
+			},
+			"origin" : {
+				"y" : 1,
+				"x" : 11,
+				"z" : 15
+			},
+			"fixtures" : {},
+			"placement_walls" : false,
+			"masks" : {},
+			"uri" : "stonehearth:furniture:clay_bed",
+			"quality" : 1,
+			"cutter" : {},
+			"adjacent" : {},
+			"total_mask" : {},
+			"hole_region" : {},
+			"owner_bid" : 1425,
+			"__classname" : "stonehearth:FixtureData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"bounds" : [
+				{
+					"min" : {
+						"y" : 0,
+						"x" : -2,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 1,
+						"x" : 2,
+						"z" : 2
+					}
+				},
+				{
+					"min" : {
+						"y" : 0,
+						"x" : 2,
+						"z" : -1
+					},
+					"max" : {
+						"y" : 2,
+						"x" : 3,
+						"z" : 2
+					}
+				}
+			],
+			"masked" : {},
+			"placement_ground" : true,
+			"rotation" : 90,
+			"color_region" : {},
+			"flushed" : false,
+			"bid" : 1502
+		},
+		"1452" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 42,
+				"x" : 1137,
+				"z" : -438
+			},
+			"fixtures" : {},
+			"blocks" : {},
+			"bid" : 1452,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 1,
+			"adjacent" : {}
+		},
+		"1468" : {
+			"removed" : false,
+			"origin" : {
+				"y" : 40,
+				"x" : 1120,
+				"z" : -461
+			},
+			"fixtures" : {},
+			"blocks" : [
+				{
+					"max" : {
+						"y" : 1,
+						"x" : -3,
+						"z" : 25
+					},
+					"min" : {
+						"y" : 0,
+						"x" : -4,
+						"z" : 24
+					},
+					"tag" : 7385973
+				}
+			],
+			"bid" : 1468,
+			"masks" : {},
+			"masked" : {},
+			"hole_region" : {},
+			"flushed" : false,
+			"__classname" : "stonehearth:BlocksData",
+			"supported" : {},
+			"supports" : {},
+			"invalid_placement" : false,
+			"brush" : "\"userdata\"",
+			"color_region" : {},
+			"kind" : 0,
+			"adjacent" : {
+				"1424" : true
+			}
+		}
+	}
+}

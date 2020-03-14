@@ -1,0 +1,9 @@
+{
+   "crops": {
+      "earthbud": {
+         "crop_type": "bunny_empire:crops:earthbud",
+         "ordinal": 1,
+         "level_requirement": 3
+      }
+   }
+}

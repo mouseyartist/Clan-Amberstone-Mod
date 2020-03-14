@@ -1,0 +1,73 @@
+{
+   "type": "index",
+   "groups": {
+      "food_preference": {
+
+         "stonehearth:traits:herbivore": {}
+
+      },
+      "temperament": {
+         "stonehearth:traits:excitable": {},
+         "stonehearth:traits:stoic": {
+            "excludes": {
+               "stonehearth:traits:hothead": true
+            }
+         }
+      },
+      "outlook": {
+         "stonehearth:traits:optimistic": {},
+         "stonehearth:traits:pessimistic": {}
+      },
+      "passion_jobs": {
+         "stonehearth:traits:passion_archer": {},
+         "stonehearth:traits:passion_blacksmith": {},
+         "stonehearth:traits:passion_carpenter": {},
+         "stonehearth:traits:passion_cleric": {},
+         "stonehearth:traits:passion_cook": {},
+         "stonehearth:traits:passion_engineer": {},
+         "stonehearth:traits:passion_farmer": {},
+         "stonehearth:traits:passion_herbalist": {},
+         "stonehearth:traits:passion_mason": {},
+         "stonehearth:traits:passion_potter": {},
+         "stonehearth:traits:passion_weaver": {},
+         "stonehearth:traits:passion_worker": {}
+      },
+      "build": {
+         "stonehearth:traits:featherweight": {},
+         "stonehearth:traits:pack_mule": {}
+      },
+      "talkative": {
+         "stonehearth:traits:gregarious": {},
+         "stonehearth:traits:loner": {}
+      }
+   },
+   "traits": {
+      "stonehearth:traits:courageous": {},
+      "stonehearth:traits:cultist": {},
+      "stonehearth:traits:heart_of_a_crafter": {
+         "excludes": {
+            "stonehearth:traits:passion_archer": true,
+            "stonehearth:traits:passion_cleric": true,
+            "stonehearth:traits:passion_footman": true,
+            "stonehearth:traits:passion_farmer": true,
+            "stonehearth:traits:passion_shepherd": true,
+            "stonehearth:traits:passion_trapper": true,
+            "stonehearth:traits:passion_worker": true
+         }
+      },
+      "stonehearth:traits:hothead": {
+         "excludes": {
+            "stonehearth:traits:stoic": true
+         }
+      },
+      "stonehearth:traits:night_owl": {},
+      "stonehearth:traits:glutton": {},
+      "stonehearth:traits:green_thumb": {},
+      "stonehearth:traits:jokester": {},
+      "stonehearth:traits:charismatic": {},
+      "stonehearth:traits:professor": {},
+      "stonehearth:traits:empathetic": {},
+      "stonehearth:traits:opinionated": {},
+      "stonehearth:traits:pluviophile": {}
+   }
+}

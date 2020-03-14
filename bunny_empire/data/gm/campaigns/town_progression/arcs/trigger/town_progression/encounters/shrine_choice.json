@@ -1,0 +1,41 @@
+{
+   "type": "encounter",
+   "encounter_type": "town_upgrade_choice",
+   "in_edge": "shrine_choice",
+   "can_start": {
+      "all_tests": {
+         "unique": {
+            "type": "deny_if_greater_than",
+            "item": "number_active",
+            "end_node": "shrine_abandon",
+            "start_node": "shrine_choice",
+            "value": 0
+         }
+      }
+   },
+   "town_upgrade_choice_info": {
+      "choices": {
+         "deity": {
+            "name": "i18n(bunny_empire:entities.decoration.monument_sun.monument_sun.display_name)",
+            "description": "i18n(bunny_empire:data.gm.campaigns.town_progression.shrine_choice.deity.description)",
+            "icon": "/bunny_empire/entities/decoration/monument_sun/monument_sun.png",
+            "sort_order": 0,
+            "out_edge": "shrine_quest_deity"
+         },
+         "guildmaster": {
+            "name": "i18n(bunny_empire:entities.decoration.monument_golem.monument_golem.display_name)",
+            "description": "i18n(bunny_empire:data.gm.campaigns.town_progression.shrine_choice.guildmaster.description)",
+            "icon": "/bunny_empire/entities/decoration/monument_golem/monument_golem.png",
+            "sort_order": 1,
+            "out_edge": "shrine_quest_guildmaster"
+         },
+         "valor": {
+            "name": "i18n(bunny_empire:entities.decoration.monument_vengence.monument_vengence.display_name)",
+            "description": "i18n(bunny_empire:data.gm.campaigns.town_progression.shrine_choice.valor.description)",
+            "icon": "/bunny_empire/entities/decoration/monument_vengence/monument_vengence.png",
+            "sort_order": 2,
+            "out_edge": "shrine_quest_valor"
+         }
+      }
+   }
+}

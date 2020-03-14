@@ -1,0 +1,33 @@
+{
+   "type": "recipe",
+   "effort": 180,
+   "work_units": 9,
+   "recipe_name": "i18n(bunny_empire:jobs.geomancer.recipes.monument_vengence.recipe_name)",
+   "description": "i18n(bunny_empire:jobs.geomancer.recipes.monument_vengence.description)",
+   "flavor": "",
+   "portrait": "/bunny_empire/entities/decoration/monument_vengence/monument_vengence.png",
+   "workshop": "stonehearth:geomancer:golem_workbench",
+   "level_requirement": 4,
+   "manual_unlock": true,
+   "ingredients": [
+      {
+      
+         "uri": "stonehearth:refined:iron_ingot",
+         "count": 8
+      
+      },
+      {
+         "material": "food_container raw_food vegetable",
+         "count": 8
+      },
+	   {
+	            "material": "earth_essence resource",
+         "count": 10
+	   }
+   ],
+   "produces": [
+      {
+         "item": "bunny_empire:decoration:monument:vengence"
+      }
+   ]
+}

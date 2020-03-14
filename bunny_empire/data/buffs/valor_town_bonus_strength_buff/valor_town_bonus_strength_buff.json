@@ -1,0 +1,14 @@
+{
+   "type": "buff",
+   "axis": "buff",
+   "display_name": "i18n(bunny_empire:data.buffs.valor_town_bonus_strength_buff.display_name)",
+   "description": "i18n(bunny_empire:data.buffs.valor_town_bonus_strength_buff.description)",
+   "icon": "file(valor_town_bonus_strength_buff.png)",
+   "repeat_add_action": "renew_duration",
+   "persistent": false,
+   "modifiers": {
+      "body": {
+         "add": 2
+      }
+   }
+}

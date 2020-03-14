@@ -1,0 +1,110 @@
+{
+   "type": "effect",
+   "tracks": {
+      "eyes_l": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.eyes.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": -0.5, "y": 8.5, "z": -2.5,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "eyes_r": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.eyes.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.5, "y": 8.5, "z": -2.5,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "bubbles_sword": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.bubbles_sword.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.0, "y": 0.0, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "smoke_sword": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.smoke_sword.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.0, "y": 0.0, "z": 0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "spray_sword": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.spray_sword.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.0, "y": 0.0, "z": 0.0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "smoke": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.smoke.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.0, "y": 0.0, "z": 0.0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "smoke_accent": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.smoke_accent.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.0, "y": 0.0, "z": 0.0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "smoke_sparkles": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.smoke_sparkles.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0.0, "y": 0.0, "z": 0.0,
+            "rx": 90,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "central_cube": {
+         "type": "cubemitter",
+         "cubemitter": "/bunny_empire/data/horde/particles/shrine/monument_sun/monument_sun.central_cube.cubemitter.json",
+         "loop": true,
+         "transforms": { "x": 0, "y": 0, "z": 0,
+            "rx": 0,
+            "ry": 0,
+            "rz": 0
+         }
+      },
+      "light_main": {
+         "type": "light",
+         "light": "/bunny_empire/data/horde/animatedlights/shrine/shrine.sun.soft.animatedlight.json",
+         "transforms": { "x": -0.1, "y": 12, "z": -3 },
+         "shadows": true
+      },
+      "crackle_sound": {
+         "type": "sound_effect",
+         "loop": true,
+         "start_time": 400,
+         "min_distance": 40,
+         "falloff": 2.5,
+         "volume": 70,
+         "track": "stonehearth:sounds:firepit_loop_sound"
+      }
+   }
+}

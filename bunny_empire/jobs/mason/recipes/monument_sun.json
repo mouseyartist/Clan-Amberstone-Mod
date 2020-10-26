@@ -11,8 +11,8 @@
    "manual_unlock": true,
    "ingredients": [
       {
-         "uri": "stonehearth:food:wheat:wheat_bale",
-         "count": 2
+         "material": "food_container raw_food vegetable",
+         "count": 15
       },
       {
          "uri": "stonehearth:resources:herb:brightbell",
@@ -22,11 +22,10 @@
          "uri": "stonehearth:refined:gold_ingot",
          "count": 2
       },
-	   	   {
-	            "material": "earth_essence resource",
+      {
+         "material": "earth_essence resource",
          "count": 10
-	   }
-	   
+      }
    ],
    "produces": [
       {

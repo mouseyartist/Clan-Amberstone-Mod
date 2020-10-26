@@ -790,6 +790,14 @@
                "description": "for when your return is... darker then expected"
             }
          }
+      },
+      "cook": {
+         "recipes": {
+            "veggie_stew_recipe": {
+               "recipe_name": "Heirbloom Substitute Veggie stew",
+               "description": "Practice a time honored tradition of cooking a questionable meal."
+            }
+         }
       }
    },
    "loadouts": {

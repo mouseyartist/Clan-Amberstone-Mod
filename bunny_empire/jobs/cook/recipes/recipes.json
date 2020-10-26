@@ -1,0 +1,28 @@
+
+{
+   "mixins": "/stonehearth/jobs/cook/recipes/recipes.json",
+   "craftable_recipes": {
+      "workbenches": {
+         "ordinal": 1,
+         "name": "i18n(stonehearth:jobs.cook.recipes.workbenches_name)",
+         "recipes": {
+			 
+			 
+			 
+			 
+			 
+			       "Heirboom Meals": {
+         "ordinal": 80,
+         "name": "i18n(stonehearth:jobs.cook.recipes.food_name)",
+         "recipes": {
+            "heirbloom_stew": {
+               "recipe": "file(heirbloom_stew_recipe.json)"
+            },
+		 }
+	   }		 
+	 }
+   }
+  }
+}
+			 
+			 

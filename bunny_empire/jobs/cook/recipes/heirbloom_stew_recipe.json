@@ -1,0 +1,22 @@
+{
+   "type": "recipe",
+   "effort": 13,
+   "work_units": 1,
+   "recipe_name": "i18n(bunny_empire:jobs.cook.recipes.veggie_stew_recipe.recipe_name)",
+   "description": "i18n(bunny_empire:jobs.cook.recipes.veggie_stew_recipe.description)",
+   "flavor": "i18n(stonehearth:jobs.cook.recipes.veggie_stew_recipe.flavor)",
+   "portrait": "/stonehearth/entities/food/veggie_stew/veggie_stew/veggie_stew.png",
+   "workshop": "stonehearth:cook:workbench",
+   "level_requirement": 0,
+   "ingredients": [
+      {
+         "material": "resources fiber heirbloom_bundle",
+         "count": 3
+      }
+   ],
+   "produces": [
+      {
+         "item": "stonehearth:food:veggie_stew"
+      }
+   ]
+}

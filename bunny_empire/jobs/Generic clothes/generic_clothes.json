@@ -1,0 +1,18 @@
+{
+   "type": "entity",
+   "mixins": "stonehearth:mixins:item_properties",
+      "model_variants": {
+         "rabbit_male": {
+            "layer": "clothing",
+            "models": [
+               "file(mason_outfit_rabbit.qb)"
+            ]
+         },
+         "rabbit_female": {
+            "layer": "clothing",
+            "models": [
+               "file(mason_outfit_rabbit.qb)"
+            ]
+         }
+      }
+   }

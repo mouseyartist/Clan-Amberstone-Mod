@@ -7,7 +7,7 @@
    "flavor": "i18n(stonehearth:jobs.carpenter.recipes.wooden_sword_recipe.flavor)",
    "portrait": "/stonehearth/entities/weapons/wooden_sword/wooden_sword.png",
    "workshop": "stonehearth:mason:workbench",
-   "level_requirement": 4,
+   "level_requirement": 3,
    "ingredients": [
       {
          "material": "stone resource",

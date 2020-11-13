@@ -1,0 +1,5 @@
+{
+	"mixins": ["/stonehearth/jobs/blacksmith/recipes/recipes.json",
+		"/stonehearth/jobs/engineer/recipes/recipes.json"
+	]
+}

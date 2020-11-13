@@ -1,31 +1,35 @@
 {
-   "mixins": "stonehearth:jobs:index",
-   "jobs": {
-      "stonehearth:jobs:worker": {
-         "description": "bunny_empire:jobs:worker"
-      },
-      "stonehearth:jobs:mason": {
-         "description": "bunny_empire:jobs:mason"
-      },
-      "stonehearth:jobs:potter": {
-         "description": "bunny_empire:jobs:potter"
-      },
-      "stonehearth:jobs:carpenter": {
-         "description": "bunny_empire:jobs:carpenter"
-      },
-      "stonehearth:jobs:archer": {
-         "description": "bunny_empire:jobs:archer"
-      },
-
-	
-
-
-      "mixintypes":{
-         "stonehearth:jobs:knight": "remove",
-      
-
-      }
-   }
- }
- 
- 
+	"mixins": "stonehearth:jobs:index",
+	"jobs": {
+		"stonehearth:jobs:worker": {
+			"description": "bunny_empire:jobs:worker"
+		},
+		"stonehearth:jobs:mason": {
+			"description": "bunny_empire:jobs:mason"
+		},
+		"stonehearth:jobs:potter": {
+			"description": "bunny_empire:jobs:potter"
+		},
+		"stonehearth:jobs:carpenter": {
+			"description": "bunny_empire:jobs:carpenter"
+		},
+		"stonehearth:jobs:archer": {
+			"description": "bunny_empire:jobs:archer"
+		},
+		"stonehearth:jobs:knight": {
+			"description": "bunny_empire:jobs:knight"
+		},
+		"stonehearth:jobs:engineer": {
+			"description": "bunny_empire:jobs:engineer"
+		},
+		"stonehearth:jobs:footman": {
+			"description": "bunny_empire:jobs:footman"
+		},
+		"stonehearth:jobs:blacksmith": {
+			"description": "bunny_empire:jobs:blacksmith"
+		},
+		"stonehearth:jobs:weaver": {
+			"description": "bunny_empire:jobs:weaver"
+		}
+	}
+}

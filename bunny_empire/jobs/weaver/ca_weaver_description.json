@@ -1,0 +1,7 @@
+{
+   "type": "job",
+   "mixins": "stonehearth:jobs:weaver",
+   "display_order": 6,
+   "parent_job": "stonehearth:jobs:farmer",
+   "parent_level_requirement": 2
+}

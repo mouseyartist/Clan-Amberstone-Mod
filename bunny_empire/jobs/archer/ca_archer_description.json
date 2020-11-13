@@ -4,7 +4,6 @@
    "display_order": 1,
    "abilities": "file(ca_archer_abilities.json)",
    "parent_job": "stonehearth:jobs:worker",
-   "parent_level_requirement": 4,
    "task_groups": [
       "stonehearth:task_groups:trapping"
    ]

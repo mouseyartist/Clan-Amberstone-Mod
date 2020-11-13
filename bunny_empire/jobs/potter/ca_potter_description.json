@@ -4,7 +4,5 @@
    "display_order": 4,
    "crafter": {
       "recipe_list": "/bunny_empire/jobs/potter/recipes/recipes.json"
-   },
-   "parent_job": "stonehearth:jobs:worker",
-   "parent_level_requirement": 0
+   }
 }
